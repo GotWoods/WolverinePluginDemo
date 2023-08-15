@@ -16,11 +16,6 @@ namespace CustomerAPlugin
             _logger = logger;
         }
 
-        public void LoadEndpoints(WolverineHttpOptions opts)
-        {
-            // opts.AddPolicy<GetPolicies>();
-        }
-
         public void Configure(WolverineOptions options)
         {
             _logger.LogDebug("Loading Default Middleware");

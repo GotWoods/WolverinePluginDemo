@@ -1,0 +1,15 @@
+C:\Users\dave\source\repos\TemplatePOC\CustomerAPlugin\bin\Debug\net7.0\CustomerAPlugin.deps.json
+C:\Users\dave\source\repos\TemplatePOC\CustomerAPlugin\bin\Debug\net7.0\CustomerAPlugin.dll
+C:\Users\dave\source\repos\TemplatePOC\CustomerAPlugin\bin\Debug\net7.0\CustomerAPlugin.pdb
+C:\Users\dave\source\repos\TemplatePOC\CustomerAPlugin\bin\Debug\net7.0\TemplatePOC.Core.dll
+C:\Users\dave\source\repos\TemplatePOC\CustomerAPlugin\bin\Debug\net7.0\TemplatePOC.Core.pdb
+C:\Users\dave\source\repos\TemplatePOC\CustomerAPlugin\obj\Debug\net7.0\CustomerAPlugin.csproj.AssemblyReference.cache
+C:\Users\dave\source\repos\TemplatePOC\CustomerAPlugin\obj\Debug\net7.0\CustomerAPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dave\source\repos\TemplatePOC\CustomerAPlugin\obj\Debug\net7.0\CustomerAPlugin.AssemblyInfoInputs.cache
+C:\Users\dave\source\repos\TemplatePOC\CustomerAPlugin\obj\Debug\net7.0\CustomerAPlugin.AssemblyInfo.cs
+C:\Users\dave\source\repos\TemplatePOC\CustomerAPlugin\obj\Debug\net7.0\CustomerAPlugin.csproj.CoreCompileInputs.cache
+C:\Users\dave\source\repos\TemplatePOC\CustomerAPlugin\obj\Debug\net7.0\CustomerAPlugin.csproj.CopyComplete
+C:\Users\dave\source\repos\TemplatePOC\CustomerAPlugin\obj\Debug\net7.0\CustomerAPlugin.dll
+C:\Users\dave\source\repos\TemplatePOC\CustomerAPlugin\obj\Debug\net7.0\refint\CustomerAPlugin.dll
+C:\Users\dave\source\repos\TemplatePOC\CustomerAPlugin\obj\Debug\net7.0\CustomerAPlugin.pdb
+C:\Users\dave\source\repos\TemplatePOC\CustomerAPlugin\obj\Debug\net7.0\ref\CustomerAPlugin.dll

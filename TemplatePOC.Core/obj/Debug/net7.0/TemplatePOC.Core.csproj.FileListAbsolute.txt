@@ -1,0 +1,12 @@
+C:\Users\dave\source\repos\TemplatePOC\TemplatePOC.Core\bin\Debug\net7.0\TemplatePOC.Core.deps.json
+C:\Users\dave\source\repos\TemplatePOC\TemplatePOC.Core\bin\Debug\net7.0\TemplatePOC.Core.dll
+C:\Users\dave\source\repos\TemplatePOC\TemplatePOC.Core\bin\Debug\net7.0\TemplatePOC.Core.pdb
+C:\Users\dave\source\repos\TemplatePOC\TemplatePOC.Core\obj\Debug\net7.0\TemplatePOC.Core.csproj.AssemblyReference.cache
+C:\Users\dave\source\repos\TemplatePOC\TemplatePOC.Core\obj\Debug\net7.0\TemplatePOC.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dave\source\repos\TemplatePOC\TemplatePOC.Core\obj\Debug\net7.0\TemplatePOC.Core.AssemblyInfoInputs.cache
+C:\Users\dave\source\repos\TemplatePOC\TemplatePOC.Core\obj\Debug\net7.0\TemplatePOC.Core.AssemblyInfo.cs
+C:\Users\dave\source\repos\TemplatePOC\TemplatePOC.Core\obj\Debug\net7.0\TemplatePOC.Core.csproj.CoreCompileInputs.cache
+C:\Users\dave\source\repos\TemplatePOC\TemplatePOC.Core\obj\Debug\net7.0\TemplatePOC.Core.dll
+C:\Users\dave\source\repos\TemplatePOC\TemplatePOC.Core\obj\Debug\net7.0\refint\TemplatePOC.Core.dll
+C:\Users\dave\source\repos\TemplatePOC\TemplatePOC.Core\obj\Debug\net7.0\TemplatePOC.Core.pdb
+C:\Users\dave\source\repos\TemplatePOC\TemplatePOC.Core\obj\Debug\net7.0\ref\TemplatePOC.Core.dll
